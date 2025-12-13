@@ -45,5 +45,6 @@ While Mason acknowledges that some of his preferences carry over from his youth,
 
 ### Sources
 Image: "portrait of cute toddler sitting at the table with plate with noodles and sausages holding broccoli with a face of disgust" by atakinka2, licensed via Adobe Stock with the broccoli removed via AI in PhotoShop
-Background music for story: "Ambient Relaxing music for You" by Amurich
+
+Background music for story: "Ambient Relaxing music for You" by Amurich, found on the Pixabay website
 https://pixabay.com/music/meditationspiritual-ambient-relaxing-music-for-you-15969/
