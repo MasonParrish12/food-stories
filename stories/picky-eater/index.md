@@ -1,43 +1,44 @@
 ---
-title: My First BBQ
-author: Fred Gibbs
-location: Durham, NC
-thumbnail: bbq.png
-summary: My first BBQ was hosted by Chef Boyardee and everyone was very happy. Yummy!
-date: 2025-08-01
+title: Picky Eater
+author: Mason Parrish
+location: Albuquerque, New Mexico
+thumbnail: PickyEater.png
+summary: How I became an all-consuming force of nature by realizing food is kind of tasty when it has lots of flavors coming together
+date: 2025-12-12
 layout: base
 tags:
-  - BBQ
-  - cookout
-  - community
+  - childhood
+  - picky eater
+  - college
+  - restaurants
+  - curiosity
 ---
 
-# Generic Story Title
-This story comes from Jordan Lee, who grew up in Chicago, where “barbecue” usually meant something you did on a gas grill in the backyard. She moved to North Carolina for school, and that’s where she got invited to her first real Southern barbecue. 
+# Picky Eater
+This story was scripted by Albuquerque native Mason Parrish, where the food scene revolves almost entirely around how much green chile can be squeezed into just about every meal. It took some time for him to get accustomed to this reality, as well as to getting outside of his extremely limited comfort zone when it came to dining, but he has grown considerably in this regard...and a belly to match.
 
 {% include figure.html
   class="right"
   width="40%"
-  caption="What a nice view"
-  image-path="bbq.png"
+  caption="A young boy pouting over the food he's being served, who bears a striking enough resemblance to a young Mason that his brother thought it was an old baby photo at first glance."
+  image-path="PickyEater.png"
 %}
 
 
-## Something more specific
-She didn’t know it at the time, but that afternoon ended up changing the way she thought about food and history. A student recalls experiencing their first authentic Southern barbecue, where the smell of smoke, the sound of conversation, and the sense of community transformed a meal into something much deeper. They learn from the pitmaster about the tradition’s roots, passed down through generations and reflected in distinct regional sauce styles tied to Southern history. By the end, the student realizes that barbecue is not just food—it’s a living expression of history, family, and belonging.
+## Becoming a gastronome
+Mason was quite averse to many types of food in his youth, generally keeping things bland and lacking in toppings. He recounts his experiences of how he slowly but surely began to get outside of his comfort zone, and how he became aware of just how varied the possibilities there were when it came to preparing dishes. After he became able to consistently dine out in college, he further expanded his palate while also exploring some unorthodox ideas of his own. This led him to reflect more on his relationship to food and what still doesn't work for him, coming to a greater appreciation of his own growth while recognizing the ways in which he can still be considered a picky eater.
 
 
 {% include audio.html
-  src="bbq.mp3"
+  src="PickyEaterFoodStory.mp3"
 %}
 
+## Analysis: The Expansive American Food Climate
 
-## Analysis: Smoke, Memory, and Belonging
+The transformation of Mason's tastes that he covers in his story is one that could not exist without the backdrop of American food and its syncretic nature, as well as the accessibility of foods that originally hailed from other countries. Raised in New Mexico, he was regularly exposed to dishes descended from the cuisine that emerged from the Spaniard conquest of Central America and the resulting integration of Native American cultivation and cooking with Spanish tastes, which in a sense can be considered the first American cuisine because of the in-roads made by Spanish colonists before other nations began to organize colonies to settle in the "New World." The local climate he lived in was further influenced by the cultivation of Hatch chile peppers, distinguishing it from contemporaries like Tex-Mex cuisine.
 
-Listening back to this oral history, what first stands out is how quickly the story moves from describing food to describing a feeling. The narrator begins with sensory detail — the smell of smoke, the chatter under the trees, the look of the smoker — but those descriptions quickly become about *community* rather than cuisine. That shift captures one of the big themes we’ve discussed in class: that food events are not just about eating but about sustaining relationships, passing on traditions, and affirming a sense of belonging. The barbecue becomes a living archive of memory and connection — something that exists through repetition and participation more than through written recipes.
+The Albuquerque metropolitan area is decently large, housing over a million New Mexicans, which contributed to the proliferation of cuisines at his disposal. Factors like Vietnamese refugee resettlement programs in the wake of the Vietnam War have shaped the Albuquerque food scene, in turn setting the stage for Mason becoming an adventurous eater as he gained more independence in being able to dine on his own. Through his culinary excursions, he gained such a strong appreciation for variety that he began to be bothered whenever he was faced with a lack of it. Mason also developed a propensity for trying some strange food ideas of his own, emboldened by some of the dishes he was able to try at restaurants and his fondly remembered time spent watching _Diners, Drive-Ins, and Dives_.  He gained an appreciation for fusion cuisine, another facet of the broader American food climate that would not exist without intercultural exchange. He feels so spoiled for choice that he admits he can no longer settle on what his favorite food is!
 
-The story also reflects the idea of **embodied knowledge and generational transmission**. The pitmaster’s line about learning from his grandfather and letting “the meat tell you when it’s ready” shows that expertise here isn’t formal or codified; it’s experiential and relational. In class, we’ve talked about how food work often relies on skills that are undervalued or unrecorded — the kinds of knowledge passed along by doing, by apprenticeship, by memory. In this sense, barbecue exemplifies what we might call *vernacular expertise*: a tradition maintained through labor, observation, and care, rather than through institutional authority.
+Americans are no strangers to the idea of trying new dishes, as indicated by things like the spread of chop suey in the early 1900s, but in the five hundred and thirty-three years since Europe first began to make prominent contact with the Americas, it's been able to build up further and further. Many mainstays of American cuisine began life in other countries, like the hamburger, pizza, and hot dogs, and have been so thoroughly altered and embedded into its culture that they now serve as canvases for all kinds of tweaks and modifications, many taking cues from completely different nations far from where the dishes originally came from. It's not strictly an American phenomenon, but most other countries can attest to having specialized cuisines of their own, whereas American food has largely appropriated dishes from other countries and made them its own to the point the world recognizes them as American much or all of the time. The creative twists on familiar foods Mason mentions as he reminisces on highlights the nature of this, as each one takes a hallmark of American cuisine, some with origins in the country and some with origins elsewhere (grilled cheese, cheesesteaks, burritos, waffles) and puts a spin on it that owes its existence to the cultural intersections that can be traced back to the "discovery of the 'New World'." 
 
-When the narrator mentions the regional sauces — vinegar, mustard, tomato — and notes that each corresponds to a different part of the South, the story expands into a meditation on **regional identity and historical layering**. As we’ve read, those variations aren’t just matters of taste but markers of geography, migration, and cultural blending. The acknowledgment of Indigenous and African roots gestures toward the deeper and often erased histories embedded in “Southern” foodways. What feels like a casual backyard gathering is, on another level, the product of centuries of adaptation, exchange, and inequality.
-
-Finally, the closing reflection — that the barbecue was “bigger than one meal” and “about belonging” — aligns with our discussions about **food as cultural memory**. The student recognizes that what endures isn’t just the recipe or the flavor, but the shared experience: the smoke, the labor, the crowd, the sense of continuity. In that moment, the story illustrates how oral histories capture what archives often miss — the *ephemeral* parts of culture that make history feel alive. Through sound, emotion, and storytelling, this single barbecue becomes a microhistory of American food itself: regional yet shared, ordinary yet full of meaning.
+While Mason acknowledges that some of his preferences carry over from his youth, like a distaste for potatoes (which have found their way into cooking worldwide), it is undeniable that his inclinations were molded by the food climate of the United States and the many things it enabled him to try. He went from keeping even staple American dishes on the bland end to voraciously exploring and championing all sorts of flavors and combinations, frequently foreign ones, he found compelling. In a sense, his lack of complacency is befitting of the stereotypical American spirit that has also defined the country, with him always being in search of new meals, snacks, and treats he can give a shot. Being able to develop a robust palate would not have been viable without the centuries of history that have shaped America, how they have enabled the availability of all kinds of food, and the door they've opened to being able to consume it for pleasure by far more of the population.
